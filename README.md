@@ -22,6 +22,7 @@ Pokeapi requires [Netcore] v2.2+ to run.
 Clone the repo and open the pokemon.sln file. When running the project you must see a Swagger page on port 5001.
 
 ### Docker
+[Docker Hub]
 Pokeapi is very easy to install and deploy in a Docker container.
 
 When ready, simply use the Dockerfile to build the image.
