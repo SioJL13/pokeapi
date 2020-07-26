@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{14C49847-A8E7-4AE6-8257-8872993BF298}|Default">
+  <MonoDevelop.Ide.ItemProperties.pokemon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pokemon/Startup.cs">
+    <Files>
+      <File FileName="pokemon/Infraestructure/Interfaces/IPokemonService.cs" Line="12" Column="29" />
+      <File FileName="pokemon/Models/PokeAdvantage.cs" Line="7" Column="47" />
+      <File FileName="pokemon/Models/PokeMoves.cs" Line="8" Column="19" />
+      <File FileName="pokemon/Infraestructure/Services/PokemonService.cs" Line="45" Column="60" />
+      <File FileName="pokemon/Models/PokemonMoves.cs" Line="20" Column="1" />
+      <File FileName="pokemon/Models/PokemonTypes.cs" Line="1" Column="1" />
+      <File FileName="pokemon/Controllers/PokemonController.cs" Line="35" Column="10" />
+      <File FileName="pokemon/Startup.cs" Line="47" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pokemon" expanded="True">
+            <Node name="pokemon" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infraestructure" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

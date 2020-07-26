@@ -1,0 +1,17 @@
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.csprojAssemblyReference.cache
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.csproj.CoreCompileInputs.cache
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.RazorAssemblyInfo.cache
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.RazorAssemblyInfo.cs
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.AssemblyInfoInputs.cache
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.AssemblyInfo.cs
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/pokemon.deps.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/pokemon.runtimeconfig.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/pokemon.runtimeconfig.dev.json
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/pokemon.dll
+/Users/siomarajimenez/Documents/pokemon/pokemon/bin/Debug/netcoreapp2.2/pokemon.pdb
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.RazorTargetAssemblyInfo.cache
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.dll
+/Users/siomarajimenez/Documents/pokemon/pokemon/obj/Debug/netcoreapp2.2/pokemon.pdb
