@@ -58,3 +58,4 @@ WIP
 
    [Docker]: <https://www.docker.com/>
    [Netcore]: <https://dotnet.microsoft.com/download>
+   [Docker Hub]: <https://hub.docker.com/r/siofeles/pokeapi>
