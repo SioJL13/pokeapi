@@ -47,8 +47,11 @@ Verify the deployment by navigating to your server address in your preferred bro
 
 #### Kubernetes
 
-WIP
+Pokeapi has a YAML so you can create a pod, when ready run 
 
+```sh
+kubectl apply -f pod.yml
+```
 
 ### Todos
 
